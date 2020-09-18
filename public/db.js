@@ -25,7 +25,7 @@ request.onsuccess = function(event) {
   
     // object store for pending db data to be accessed
     const store = transaction.objectStore("pending");
-  
+    console.log("store")
     // adds the record with the store
     store.add(record);
   }
@@ -62,3 +62,4 @@ request.onsuccess = function(event) {
     }
   };
 }
+    window.addEventListener("online", checkDatabase)
