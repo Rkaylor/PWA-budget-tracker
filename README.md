@@ -10,11 +10,11 @@ Budget tracker that records data of money spent and paid, and if the user is off
 4. Javascript 
 5. MongoDB
 6. Heroku
+# Installation:
+npm i
 # Screenshots:
 <img width="1792" alt="Screen Shot 2020-12-30 at 10 14 55 AM" src="https://user-images.githubusercontent.com/66392934/103362982-fff1a900-4a87-11eb-86ca-94fc60ca20a0.png">
 
-# Installation:
-visit the heroku link listed below
 # Usage:
 Tracks transactions spent or recieved regardless if you are online or not.
 # Heroku Link:
